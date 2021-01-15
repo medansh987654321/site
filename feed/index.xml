@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Medansh&#039;s Website</title>
-	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Wed, 13 Jan 2021 07:33:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jan 2021 07:05:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
